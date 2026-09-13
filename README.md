@@ -31,6 +31,13 @@ A local-first Studio and API for cloning voices and generating speech through in
 
 Tracks usage, quotas, and reset windows across tools such as Cursor, Codex, Claude Code, GitHub Copilot CLI, Devin, and others without adding another telemetry service.
 
+### [Docker & Kubernetes DevKit](https://github.com/mohitkale/docker-kubernetes)
+**A practical DevOps teammate for Claude Code**
+
+Helps investigate Docker builds, containers, Kubernetes workloads, Helm charts and RBAC, with read-first diagnostics and explicit approval before destructive operations.
+
+## 🧪 Engineering experiments
+
 ### [Can AI Build a Clean Jira SDK?](https://github.com/mohitkale/can-ai-build-a-clean-jira-sdk)
 **An experiment in engineering AI-generated code**
 
