@@ -8,7 +8,7 @@ I've spent 17+ years taking products from ambiguous ideas to working software ac
 
 Today, I'm a Framework Architect in R&D at Sapiens and part of its AI Tiger Team, working hands-on with enterprise AI adoption, developer workflows, agentic systems, context engineering, and AI-assisted software development.
 
-I still like building things myself.
+I still build things myself.
 
 ## 🚀 Currently building
 
@@ -59,7 +59,7 @@ I'm particularly interested in making AI systems **useful, inspectable, reproduc
 
 - 17+ years building and architecting production software
 - Selected as 1 of 10 engineers for Sapiens' AI Tiger Team
-- Helped enable AI workflows around 500+ Claude Enterprise and 1,000+ GitHub Copilot users
+- Helped enable AI workflows for 1000+ Claude Enterprise and 1,000+ GitHub Copilot users.
 - Built reusable AI skills, plugins, developer tooling, and full-stack products
 - Still happiest when turning an idea into something people can actually use
 
